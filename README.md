@@ -3,8 +3,8 @@ CMKmovies APP
 # DESCRIPTION 
 This is a web app that contains a movie library for TV Maze. Its aimed at displaying the movies users search for and their different genres.
 
--HTML
--JavaScript
+-HTML,
+-JavaScript,
 -CSS
 
 ## Author
