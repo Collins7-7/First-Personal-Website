@@ -1,6 +1,5 @@
-document.addEventListener('DOMContentLoaded', () => {
-
-    const getMovie = async () => {
+   
+   const getMovie = async () => {
         const fetchMovies = await fetch("https://api.tvmaze.com/shows");
         const fetchedMovies = await fetchMovies.json();
         console.log(fetchedMovies);
@@ -59,8 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     };
     searchMovie();
-    getMovie()
-});
+    getMovie();
 
 
 
