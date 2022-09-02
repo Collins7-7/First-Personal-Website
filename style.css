@@ -1,0 +1,15 @@
+*{
+    margin:0;
+  
+  }
+  
+  body{
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .varbar{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    height: 100%; 
+  }
