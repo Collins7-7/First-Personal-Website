@@ -7,6 +7,8 @@ This is a web app that contains a movie library for TV Maze. Its aimed at displa
 -HTML,
 -JavaScript,
 -CSS
+## Deployed Github Page Link
+https://collins7-7.github.io/First-Personal-Website/
 
 ## Author
 *Collins Muiruri*
