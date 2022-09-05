@@ -13,6 +13,7 @@ https://collins7-7.github.io/First-Personal-Website/
 ## Author
 *Collins Muiruri*
 - GitHub: [@githubhandle](https://github.com/Collins7-7)
+- Twitter: [@collins_muiruri]
 
 ## SETUP DIRECTIONS
 To setup git clone https://github.com/Collins7-7/First-Personal-Website
